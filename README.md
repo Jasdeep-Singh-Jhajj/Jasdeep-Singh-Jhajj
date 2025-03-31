@@ -123,5 +123,14 @@ I am a versatile data professional with expertise across data analysis, engineer
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <a href="https://github.com/Jasdeep-Singh-Jhajj">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jasdeep-Singh-Jhajj&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasdeep-Singh-Jhajj&layout=compact&langs_count=6&theme=react&hide_border=true" />
+  </a>
+</div>
 
 ## 📫 How to Reach Me
+- 📧 Email: jasdeepjhajj@arizona.edu
+- 💼 LinkedIn: [linkedin.com/in/jasdeepjhajj](https://linkedin.com/in/jasdeepjhajj)
+- 🌐 Portfolio: [jasdeepjhajj.com](https://jasdeep-jhajj.netlify.app/)
