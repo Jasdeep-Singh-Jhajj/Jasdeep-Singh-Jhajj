@@ -15,17 +15,16 @@
 ## 🧑‍💻 About Me
 
 I am a versatile data professional with expertise across data analysis, engineering, and DevOps. My passion lies in transforming raw data into meaningful insights while building robust data pipelines and cloud solutions. With a strong foundation in both data analysis and engineering, I excel at creating end-to-end data solutions that drive business value. I continuously expand my knowledge across these domains to stay at the forefront of data technology and best practices.
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <div>
   <div style="float: left; width: 70%;">
+    <br>
     🔭 I'm a Data Analyst | Data Engineer | DevOps Engineer<br>
     🌟 Passionate about building scalable data solutions<br>
     🚀 Experienced in cloud platforms and data pipelines<br>
     📊 Specialized in data visualization and analytics<br>
     💡 Always learning new technologies and best practices
-  </div>
-  <div style="float: right; width: 30%; margin-left: -15%;">
-    <img align="center" alt="Coding" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
   </div>
 </div>
 <br clear="both">
@@ -111,7 +110,7 @@ I am a versatile data professional with expertise across data analysis, engineer
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
 
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
@@ -125,7 +124,6 @@ I am a versatile data professional with expertise across data analysis, engineer
 
 <div align="center">
   <a href="https://github.com/Jasdeep-Singh-Jhajj">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jasdeep-Singh-Jhajj&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasdeep-Singh-Jhajj&layout=compact&langs_count=6&theme=react&hide_border=true" />
   </a>
 </div>
