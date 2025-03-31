@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a passionate Data Engineer with a strong foundation in transforming raw data into meaningful insights. I specialize in building efficient data pipelines and solutions in the cloud, working with modern data engineering tools and technologies. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
+I am a versatile data professional with expertise across data analysis, engineering, and DevOps. My passion lies in transforming raw data into meaningful insights while building robust data pipelines and cloud solutions. With a strong foundation in both data analysis and engineering, I excel at creating end-to-end data solutions that drive business value. I continuously expand my knowledge across these domains to stay at the forefront of data technology and best practices.
 
 <div>
   <div style="float: left; width: 70%;">
@@ -31,6 +31,56 @@ I am a passionate Data Engineer with a strong foundation in transforming raw dat
 <br clear="both">
 
 ## 🔥 Featured Projects
+
+<div align="center">
+  <table border="0" style="border-collapse: collapse;">
+    <tr>
+      <td width="50%" style="padding: 15px;">
+        <div align="center" style="background: #20232a; border-radius: 10px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.15); height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <h3 align="center" style="color: #61dafb;">
+              YouTube Comments Analysis
+            </h3>
+            <p style="color: #fff;"><strong>Python, NLP, Sentiment Analysis</strong> - A deep dive into YouTube comments sentiment analysis using advanced NLP techniques.</p>
+          </div>
+        </div>
+      </td>
+      <td width="50%" style="padding: 15px;">
+        <div align="center" style="background: #20232a; border-radius: 10px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.15); height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <h3 align="center" style="color: #61dafb;">
+              Big Tech Stock Analysis
+            </h3>
+            <p style="color: #fff;"><strong>Python, Pandas, Data Visualization</strong> - Comprehensive analysis of tech stock performance and market trends.</p>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="padding: 15px;">
+        <div align="center" style="background: #20232a; border-radius: 10px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.15); height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <h3 align="center" style="color: #61dafb;">
+              Meteoric Fall Analysis
+            </h3>
+            <p style="color: #fff;"><strong>Python, Geospatial Analysis, Data Mining</strong> - Analysis of meteorite landings and their geographical patterns.</p>
+          </div>
+        </div>
+      </td>
+      <td width="50%" style="padding: 15px;">
+        <div align="center" style="background: #20232a; border-radius: 10px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.15); height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <h3 align="center" style="color: #61dafb;">
+              Healthcare AI Integration
+            </h3>
+            <p style="color: #fff;"><strong>TypeScript, ChatGPT API, Prompt Engineering</strong> - AI-powered medical case creator app with automated clinical scenario generation and context-aware prompt engineering.</p>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ## 🛠️ Skills & Tools
