@@ -20,7 +20,7 @@ I am a versatile data professional with expertise across data analysis, engineer
 <div>
   <div style="float: left; width: 70%;">
     <br>
-    🔭 I'm a Data Analyst | Data Engineer | DevOps Engineer<br>
+    🔭 I'm a Data Engineer | Data Analyst | DevOps Engineer<br>
     🌟 Passionate about building scalable data solutions<br>
     🚀 Experienced in cloud platforms and data pipelines<br>
     📊 Specialized in data visualization and analytics<br>
@@ -32,7 +32,24 @@ I am a versatile data professional with expertise across data analysis, engineer
 ## 🔥 Featured Projects
 
 <div align="center">
-  <table border="0" style="border-collapse: collapse;">
+  <table border="0" style="border-collapse: collapse; width: 100%;">
+    <!-- First row: Netflix project full width -->
+    <tr>
+      <td colspan="2" style="padding: 15px;">
+        <div align="center" style="background: #20232a; border-radius: 10px; padding: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.15); height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <h3 align="center" style="color: #61dafb;">
+              📊 Netflix–Azure Data Pipeline
+            </h3>
+            <p style="color: #fff;"><strong>Azure Data Factory, Databricks, Delta Lake, PySpark, Medallion Architecture</strong> - Real-time processing pipeline orchestrated on Azure. Built streaming ingestion with Auto Loader, schema drift handling, modular PySpark notebooks, Delta expectations, and Unity Catalog governance within a Medallion architecture.</p>
+          </div>
+          <a href="https://github.com/Jasdeep-Singh-Jhajj/Netflix-Azure-Data-Pipeline" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-1A73E8?style=for-the-badge&logo=github"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+    <!-- Second row -->
     <tr>
       <td width="50%" style="padding: 15px;">
         <div align="center" style="background: #20232a; border-radius: 10px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.15); height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
@@ -40,7 +57,7 @@ I am a versatile data professional with expertise across data analysis, engineer
             <h3 align="center" style="color: #61dafb;">
               🎥 YouTube Comments Analysis
             </h3>
-            <p style="color: #fff;"><strong>Python, NLP, Sentiment Analysis</strong> - A deep dive into YouTube comments sentiment analysis using advanced NLP techniques.</p>
+            <p style="color: #fff;"><strong>Python, NLP, Sentiment Analysis</strong> – A deep dive into YouTube comments sentiment analysis using advanced NLP techniques.</p>
           </div>
           <a href="https://github.com/Jasdeep-Singh-Jhajj/YouTube-Comments-Sentiment-Analysis" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-1A73E8?style=for-the-badge&logo=github"/>
@@ -53,7 +70,7 @@ I am a versatile data professional with expertise across data analysis, engineer
             <h3 align="center" style="color: #61dafb;">
               📈 Big Tech Stock Analysis
             </h3>
-            <p style="color: #fff;"><strong>Python, Pandas, Data Visualization</strong> - Comprehensive analysis of tech stock performance and market trends.</p>
+            <p style="color: #fff;"><strong>Python, Pandas, Data Visualization</strong> – Comprehensive analysis of tech stock performance and market trends.</p>
           </div>
           <a href="https://github.com/Jasdeep-Singh-Jhajj/Uncovering-Big-Tech-Stock-Prices" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-1A73E8?style=for-the-badge&logo=github"/>
@@ -61,6 +78,7 @@ I am a versatile data professional with expertise across data analysis, engineer
         </div>
       </td>
     </tr>
+    <!-- Third row -->
     <tr>
       <td width="50%" style="padding: 15px;">
         <div align="center" style="background: #20232a; border-radius: 10px; padding: 16px; box-shadow: 0 2px 5px rgba(0,0,0,0.15); height: 200px; display: flex; flex-direction: column; justify-content: space-between;">
@@ -68,7 +86,7 @@ I am a versatile data professional with expertise across data analysis, engineer
             <h3 align="center" style="color: #61dafb;">
               🌠 Meteoric Fall Analysis
             </h3>
-            <p style="color: #fff;"><strong>Python, Geospatial Analysis, Data Mining</strong> - Analysis of meteorite landings and their geographical patterns.</p>
+            <p style="color: #fff;"><strong>Python, Geospatial Analysis, Data Mining</strong> – Analysis of meteorite landings and their geographical patterns.</p>
           </div>
           <a href="https://github.com/Jasdeep-Singh-Jhajj/Meteoric-Fall-a-comet-ment-to-data" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-1A73E8?style=for-the-badge&logo=github"/>
@@ -81,7 +99,7 @@ I am a versatile data professional with expertise across data analysis, engineer
             <h3 align="center" style="color: #61dafb;">
               🏥 Healthcare AI Integration
             </h3>
-            <p style="color: #fff;"><strong>TypeScript, ChatGPT API, Prompt Engineering</strong> - AI-powered medical case creator app with automated clinical scenario generation and context-aware prompt engineering.</p>
+            <p style="color: #fff;"><strong>TypeScript, ChatGPT API, Prompt Engineering</strong> – AI-powered medical case creator app with automated clinical scenario generation and context-aware prompt engineering.</p>
           </div>
           <a href="#">
             <img src="https://img.shields.io/badge/Private%20Project-1A73E8?style=for-the-badge&logo=lock"/>
@@ -97,7 +115,6 @@ I am a versatile data professional with expertise across data analysis, engineer
     <img src="https://img.shields.io/badge/View%20More%20Projects-1A73E8?style=for-the-badge&logo=github" alt="View More Projects"/>
   </a>
 </div>
-
 
 
 ## 🛠️ Skills & Tools
