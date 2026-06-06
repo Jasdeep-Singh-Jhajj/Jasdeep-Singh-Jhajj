@@ -13,21 +13,47 @@
 </div>
 
 ## 🧑‍💻 About Me
+I am a **Data Engineer** at PAREXEL International Corporation, specializing in designing and building scalable cloud data platforms using **Azure Databricks**, **Azure Data Factory**, and **Delta Lake**. 
+My expertise lies in engineering production-grade **ELT pipelines**, implementing **medallion lakehouse architectures** (Bronze/Silver/Gold), and optimizing data pipelines for reliability and cost efficiency. 
+I focus on data quality, governance, and automation to deliver analytics-ready datasets that drive business intelligence. With a strong foundation in distributed systems, cloud platforms, and data modeling, I excel at building reliable data infrastructure that scales.
 
-I am a versatile data professional with expertise across data analysis, engineering, and DevOps. My passion lies in transforming raw data into meaningful insights while building robust data pipelines and cloud solutions. With a strong foundation in both data analysis and engineering, I excel at creating end-to-end data solutions that drive business value. I continuously expand my knowledge across these domains to stay at the forefront of data technology and best practices.
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-<div>
-  <div style="float: left; width: 70%;">
-    <br>
-    🔭 I'm a Data Engineer | Data Analyst | DevOps Engineer<br>
-    🌟 Passionate about building scalable data solutions<br>
-    🚀 Experienced in cloud platforms and data pipelines<br>
-    📊 Specialized in data visualization and analytics<br>
-    💡 Always learning new technologies and best practices
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+
+  <br>
+  <br>
+  <div>
+    <strong>🔭 Data Engineer</strong><br>
+    Azure Databricks | ELT Pipelines | Medallion Architecture
+  </div>
+  <div>
+    <strong>☁️ Cloud Specialist</strong><br>
+    Azure Data Factory | Delta Lake | Data Warehousing
+  </div>
+  <div>
+    <strong>⚙️ DevOps Experienced</strong><br>
+    CI/CD | Docker | Kubernetes | Jenkins
   </div>
 </div>
 <br clear="both">
+
+## 🏆 Certifications
+
+<div align="center">
+
+<table style="border: none; background: transparent;">
+<tr style="border: none;">
+<td style="border: none; padding: 10px;"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Microsoft Certified Associate" width="140"/></td>
+<td style="border: none; padding: 10px; text-align: center;">
+<h3 style="color: #fff; margin: 0;">Azure Databricks Data Engineer Associate</h3>
+<p style="color: #fff; margin: 8px 0;"><strong>Microsoft Certified</strong></p>
+<p style="color: #aaa; font-size: 14px; margin: 8px 0;">Credential ID: F2C7E735158F8397</p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🔥 Featured Projects
 
@@ -129,12 +155,12 @@ I am a versatile data professional with expertise across data analysis, engineer
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
 </div>
 
 ## 📊 GitHub Stats
